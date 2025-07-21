@@ -15,6 +15,6 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_pushButton_clicked()
 {
-    ui->label->setText("hey there from Avinash");
+    ui->label->setText("Hey there from Avinash");
 }
 
